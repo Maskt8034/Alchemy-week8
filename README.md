@@ -1,7 +1,6 @@
 # Alchemy-week8
 
-# 
+# LogRocket\20220615-random
 
-README.md
 Casino.sol
 A random number casino for use on Ethereum blockchains.
